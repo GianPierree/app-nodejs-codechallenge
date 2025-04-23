@@ -39,6 +39,8 @@ build/Release
 
 # Dependency directories
 node_modules/
+ms-antifraud-rules/node_modules/
+ms-transacciones/node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -81,6 +83,8 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
+ms-transacciones/dist
+ms-antifraud-rules/dist
 
 # Gatsby files
 .cache/
